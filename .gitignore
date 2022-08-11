@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/Week2_Assignment.iml
+.idea
